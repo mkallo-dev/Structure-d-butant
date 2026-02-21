@@ -1,2 +1,2 @@
-# Structure-d-butant
+# Structure-débutant
 Structure niveau débutant
